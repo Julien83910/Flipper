@@ -1,0 +1,5 @@
+Cahier des charges :
+  Le flipper devra avoir toutes les fonctionnalités de base d’un flipper comme ceux qu’on trouve dans les arcades. 
+  C’est-à-dire deux gâchettes alimentées par deux moteurs pour frapper la balle. 
+  Un tapis de jeu ou seront place des capteurs telle que des boutons ou des capteur ultrason pour savoir si la Ball est passé à certain endroits du tapis de jeu. 
+  Des LED devront s’allumé sur certain endroit si une zone spéciale a été touché. De plus il devra y avoir un petit écran où seront affiché le score du joueur.
